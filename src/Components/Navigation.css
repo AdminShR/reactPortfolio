@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    align-items: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+.port{
+    font-size: 25px;
+    color: #fff;
+}
+
+ul{
+    list-style: none;
+}
+
+div ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+div ul li a {
+    text-decoration: none;
+    color: #fff;
+}
